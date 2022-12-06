@@ -1,6 +1,6 @@
 # COMANDOS LINUX - RED
 
-## 1. Set static IP on your linux device to connect to your LAN using nmcli command
+## 1. Set static IP on your Linux device to connect to your LAN using nmcli command
 
 Cambiar dirección IP:
 
